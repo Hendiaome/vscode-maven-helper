@@ -72,6 +72,9 @@ Supports detection of:
 3. Search for "Maven Helper"
 4. Click Install
 
+### Prerequisites
+1. Before using this tool, ensure that Maven For Java is working properly and you have specified the Maven execution path and setting.xml path
+
 ### Usage
 1. Open a Maven project containing `pom.xml`
 2. The "Maven Helper" icon will appear in the left activity bar
@@ -79,7 +82,7 @@ Supports detection of:
 4. Use the tree view to browse dependency relationships
 
 ## Screenshots
-![Maven Helper Screenshot](image.png)
+![Maven Helper Screenshot](https://github.com/Hendiaome/vscode-maven-helper/blob/master/image.png)
 
 ## Configuration Options
 ```json
@@ -103,7 +106,7 @@ Controls Maven dependency analysis execution mode:
 `false` (default): Use depgraph plugin for dependency analysis
 `true`: Use native `dependency:tree -Dverbose` command
 
-> **Note**: If you encounter issues where depgraph mode cannot run properly, you can enable this option to switch to native command mode. Project-level configuration is recommended.
+> **Note**: If you encounter issues where depgraph mode cannot run properly, you can enable this option to switch to native command mode. Project-level configuration is recommended because depgraph.
 
 ## Support and Feedback
 **Issue Reports**: [GitHub Issues](https://github.com/hendiaome/vscode-maven-helper/issues)  
@@ -131,6 +134,14 @@ Compared to traditional Maven dependency analysis methods:
 • Support for dependency reference path analysis  
 • Integrated dependency conflict detection mechanism  
 • Provided convenient operation interface  
+
+### v1.0.1, Planned
+• Optimize experience issues: view loss after first exclusion
+• Optimize experience issues: view still exists when excluding dependencies with multiple identical first-level introductions
+• Optimize experience issues: view still exists after exclusion when dependency path has only 1 path
+
+### v1.1.0, Planned
+• Reference chain supports tree structure, clickable expansion, can locate to pom file
 
 ---
 **Maven Helper** - Making Maven dependency management simpler and more efficient 
