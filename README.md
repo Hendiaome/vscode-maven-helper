@@ -1,5 +1,7 @@
 # Maven Helper - VSCode 扩展
 
+**Language**: [中文](README.md) | [English](README.en.md)
+
 > **专业的 Maven 依赖分析工具**：为 VSCode 平台设计的 Maven 依赖管理和冲突检测扩展  
 > **可视化依赖管理**：提供直观的树形视图和依赖引用路径分析  
 > **提升开发效率**：简化 Maven 依赖分析流程，快速定位和解决依赖问题

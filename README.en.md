@@ -1,5 +1,7 @@
 # Maven Helper - VSCode Extension
 
+**Language**: [中文](README.md) | [English](README.en.md)
+
 > **Professional Maven Dependency Analysis Tool**: A Maven dependency management and conflict detection extension designed for the VSCode platform  
 > **Visual Dependency Management**: Provides intuitive tree view and dependency reference path analysis  
 > **Boost Development Efficiency**: Simplifies Maven dependency analysis workflow, quickly locate and resolve dependency issues
