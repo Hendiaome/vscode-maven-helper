@@ -71,7 +71,7 @@ Supports detection of:
 ### Installation
 1. Open VSCode
 2. Press `Ctrl+Shift+X` to open Extension Marketplace
-3. Search for "Maven Helper" install。If you can't find the plugin, you can install it in standard VSCode first, then open the command palette in Cursor, type import, and import the extension from your VSCode installation.
+3. Search for "Maven Helper" install。For Cursor User If you can't find the plugin, you can install it in standard VSCode first, then open the command palette in Cursor, type import, and import the extension from your VSCode installation.
 ![image](https://github.com/user-attachments/assets/cb1a7c43-60c8-4d04-8bf0-b68572f20d19) 
 4. Click Install
 
