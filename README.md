@@ -71,7 +71,7 @@ Maven Helper：图形化树状结构 + 交互式操作
 ### 安装方式
 1. 打开 VSCode
 2. 按 `Ctrl+Shift+X` 打开扩展市场
-3. 搜索 "Maven Helper" 安装即可。 如果Cursor用户无法搜索到，可以使用原生的VSCode安装，安装后打开Cursor 命令面板，输入import，导入把VSCode的插件导入到Cursor中
+3. 搜索 "Maven Helper" 安装即可。 如果Cursor用户无法搜索到，可以使用原生的VSCode安装，安装后打开Cursor 命令面板，输入import，把VSCode的插件导入到Cursor中
 ![image](https://github.com/user-attachments/assets/cb1a7c43-60c8-4d04-8bf0-b68572f20d19)
  
 4. 点击安装
