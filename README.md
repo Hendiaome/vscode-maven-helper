@@ -91,6 +91,7 @@ Maven Helper：图形化树状结构 + 交互式操作
 
 ## 功能截图
 ![Maven Helper 功能截图](https://github.com/Hendiaome/vscode-maven-helper/blob/master/image.png)
+![image](https://github.com/user-attachments/assets/f8608a87-8607-489c-8bc9-d0084671d67f)
 
 
 ## 配置说明
